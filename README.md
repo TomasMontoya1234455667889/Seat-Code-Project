@@ -98,7 +98,7 @@ Figure 4:  <br/>
 <br />
 
 Figure 5:  <br/>
-<img src="https://i.imgur.com/JBRqDEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JBRqDEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 References
